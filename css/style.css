@@ -1,0 +1,18 @@
+div {
+	margin: 5px;
+}
+
+body {
+    FONT-SIZE: 9pt;
+    COLOR: #003300;
+    FONT-FAMILY: verdana,geneva,arial cyr;
+}
+
+.error {
+    color: #e82907;
+    text-align: center;
+}
+
+.form {
+    width: 250px;
+}
